@@ -2,6 +2,7 @@
 
 ## How the task was tackled
 
+## Note: Tasks do not persist yet and design needs improvement
 ### Adding task:
 - reference a var to the submit button
 - reference a var for input
@@ -15,3 +16,5 @@
 ### Checking task
 - using the created checkbox add an event listener to determine if check, then change the text decoration
   
+## View it live
+https://bmbenkyou.github.io/DT-Screening-Todo-List/
